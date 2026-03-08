@@ -1,0 +1,20 @@
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+.navbar.active {
+  background-color: #444;
+}
+.hero {
+  background-image: url("https://source.unsplash.com/1600x900/?spider-man");
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.about {
+  padding: 2rem;
+}
